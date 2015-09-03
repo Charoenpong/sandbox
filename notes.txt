@@ -1,3 +1,5 @@
+This is the second version.
+
 - finish experiments
 - write thesis
 - get post-doc position (pref. with Dr. Horrible)
